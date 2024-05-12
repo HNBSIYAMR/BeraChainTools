@@ -284,7 +284,7 @@ logger.debug(result)
 
 - **Github项目地址**：[galxe](https://github.com/Fooyao/galxe_bind_twitter/tree/main)
 
----
+---Software for interaction with Berachain
 
 
 感谢使用
